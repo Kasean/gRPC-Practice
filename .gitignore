@@ -1,1 +1,5 @@
 /.idea/
+/grpc-server/.gradle/
+/java-grpc-client/.gradle/
+/grpc-server/build/
+/java-grpc-client/build/
