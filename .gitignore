@@ -3,3 +3,5 @@
 /java-grpc-client/.gradle/
 /grpc-server/build/
 /java-grpc-client/build/
+/avro-kafka/.gradle/
+/avro-kafka/build/
