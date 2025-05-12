@@ -1,0 +1,9 @@
+{
+  "type": "record",
+  "name": "User",
+  "namespace": "org.kasean.v1",
+  "fields": [
+    {"name": "id", "type": "int"},
+    {"name": "name", "type": "string"}
+  ]
+}
